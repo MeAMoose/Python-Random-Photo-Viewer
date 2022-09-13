@@ -1,0 +1,9 @@
+{
+    "settings": [
+        {
+            "imageLibrary": "ENTER FILE PATH",
+            "imageDelay": "12",
+            "debug": false
+        }
+    ]
+}
